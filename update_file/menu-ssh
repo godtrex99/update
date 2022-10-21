@@ -155,6 +155,7 @@ echo -e "$Pass\n$Pass\n"|passwd $Login &> /dev/null
 PID=`ps -ef |grep -v grep | grep sshws |awk '{print $2}'`
 
 if [[ ! -z "${PID}" ]]; then
+echo -e ""
 echo -e "Informasi SSH
 echo -e "=============================="
 echo -e "Username   : $Login"
@@ -182,6 +183,7 @@ echo -e "GET / HTTP/1.1[crlf]Host: ${domain}[crlf]Upgrade: websocket[crlf][crlf]
 echo -e "=============================="
 echo -e "Created By PapaBearS"
 else
+echo -e ""
 echo -e "Informasi SSH
 echo -e "=============================="
 echo -e "Username   : $Login"
@@ -557,6 +559,7 @@ echo -e "$Pass\n$Pass\n"|passwd $Login &> /dev/null
 PID=`ps -ef |grep -v grep | grep sshws |awk '{print $2}'`
 
 if [[ ! -z "${PID}" ]]; then
+echo -e ""
 echo -e "Informasi Akun SSH Trial
 echo -e "=============================="
 echo -e "Username   : $Login"
@@ -586,6 +589,7 @@ echo -e "Created By PapaBearS"
 
 else
 
+echo -e ""
 echo -e "Informasi Akun SSH Trial
 echo -e "=============================="
 echo -e "Username   : $Login"
