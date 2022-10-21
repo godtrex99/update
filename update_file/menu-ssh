@@ -162,7 +162,7 @@ echo -e "$COLOR1┌────────────────────�
 echo -e "$COLOR1 $NC  Username   : $Login" 
 echo -e "$COLOR1 $NC  Password   : $Pass"
 echo -e "$COLOR1 $NC  Expired On : $exp"
-echo -e "$COLOR1 $NC  CITY       : $CITY
+echo -e "$COLOR1 $NC  CITY       : $CITY"
 echo -e "$COLOR1 ───────────────────────────────────${NC}"
 echo -e "$COLOR1 $NC  IP         : $IP"
 echo -e "$COLOR1 $NC  Host       : $domen"
@@ -187,7 +187,7 @@ echo -e "$COLOR1┌────────────────────�
 echo -e "$COLOR1 $NC  Username   : $Login" 
 echo -e "$COLOR1 $NC  Password   : $Pass"
 echo -e "$COLOR1 $NC  Expired On : $exp"
-echo -e "$COLOR1 $NC  CITY       : $CITY
+echo -e "$COLOR1 $NC  CITY       : $CITY"
 echo -e "$COLOR1 ───────────────────────────────────${NC}"
 echo -e "$COLOR1 $NC  IP         : $IP"
 echo -e "$COLOR1 $NC  Host       : $domen"
@@ -560,7 +560,7 @@ echo -e "$COLOR1┌────────────────────�
 echo -e "$COLOR1 $NC  Username   : $Login" 
 echo -e "$COLOR1 $NC  Password   : $Pass"
 echo -e "$COLOR1 $NC  Expired On : $exp"
-echo -e "$COLOR1 $NC  CITY       : $CITY
+echo -e "$COLOR1 $NC  CITY       : $CITY"
 echo -e "$COLOR1 ───────────────────────────────────${NC}"
 echo -e "$COLOR1 $NC  IP         : $IP"
 echo -e "$COLOR1 $NC  Host       : $domen"
@@ -587,7 +587,7 @@ echo -e "$COLOR1┌────────────────────�
 echo -e "$COLOR1 $NC  Username   : $Login" 
 echo -e "$COLOR1 $NC  Password   : $Pass"
 echo -e "$COLOR1 $NC  Expired On : $exp"
-echo -e "$COLOR1 $NC  CITY       : $CITY
+echo -e "$COLOR1 $NC  CITY       : $CITY"
 echo -e "$COLOR1 ───────────────────────────────────${NC}"
 echo -e "$COLOR1 $NC  IP         : $IP"
 echo -e "$COLOR1 $NC  Host       : $domen"
