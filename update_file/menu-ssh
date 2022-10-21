@@ -156,7 +156,7 @@ PID=`ps -ef |grep -v grep | grep sshws |awk '{print $2}'`
 
 if [[ ! -z "${PID}" ]]; then
 echo -e ""
-echo -e "Informasi SSH
+echo -e "Informasi SSH"
 echo -e "=============================="
 echo -e "Username   : $Login"
 echo -e "Password   : $Pass"
@@ -171,7 +171,7 @@ echo -e "SSH-WS     : $portsshws, 8880"
 echo -e "SSH-SSL-WS : $wsssl"
 echo -e "SSL/TLS    : $ssl"
 echo -e "UDPGW      : 7100-7300"
-echo -e "SlowDNS    : ERROR
+echo -e "SlowDNS    : ERROR"
 echo -e "=============================="
 echo -e "Payload Websocket TLS"
 echo -e "=============================="
@@ -184,7 +184,7 @@ echo -e "=============================="
 echo -e "Created By PapaBearS"
 else
 echo -e ""
-echo -e "Informasi SSH
+echo -e "Informasi SSH"
 echo -e "=============================="
 echo -e "Username   : $Login"
 echo -e "Password   : $Pass"
@@ -199,7 +199,7 @@ echo -e "SSH-WS     : $portsshws, 8880"
 echo -e "SSH-SSL-WS : $wsssl"
 echo -e "SSL/TLS    : $ssl"
 echo -e "UDPGW      : 7100-7300"
-echo -e "SlowDNS    : ERROR
+echo -e "SlowDNS    : ERROR"
 echo -e "=============================="
 echo -e "Payload Websocket TLS"
 echo -e "=============================="
@@ -590,7 +590,7 @@ echo -e "Created By PapaBearS"
 else
 
 echo -e ""
-echo -e "Informasi Akun SSH Trial
+echo -e "Informasi Akun SSH Trial"
 echo -e "=============================="
 echo -e "Username   : $Login"
 echo -e "Password   : $Pass"
@@ -605,7 +605,7 @@ echo -e "SSH-WS     : $portsshws, 8880"
 echo -e "SSH-SSL-WS : $wsssl"
 echo -e "SSL/TLS    : $ssl"
 echo -e "UDPGW      : 7100-7300"
-echo -e "SlowDNS    : ERROR
+echo -e "SlowDNS    : ERROR"
 echo -e "=============================="
 echo -e "Payload Websocket TLS"
 echo -e "=============================="
