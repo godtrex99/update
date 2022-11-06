@@ -9,7 +9,7 @@ echo -e "[INFO] Remove Old Script"
 sleep 2
 echo -e " [INFO] Downloading New Script"
 #wget -qc -O /usr/bin/menu-ss "https://raw.githubusercontent.com/godtrex99/update/main/update_file/menu-ss" && chmod +x /usr/bin/menu-ss
-wget -qc -O /usr/bin/menu-ssh "https://raw.githubusercontent.com/godtrex99/update/main/update_file/menu-ssh" && chmod +x /usr/bin/menu-ssh
+wget -qc -O /usr/bin/menu "https://raw.githubusercontent.com/godtrex99/update/main/update_file/menu" && chmod +x /usr/bin/menu
 #wget -qc -O /usr/bin/menu-trojan "https://raw.githubusercontent.com/godtrex99/update/main/update_file/menu-trojan" && chmod +x /usr/bin/menu-trojan
 #wget -qc -O /usr/bin/menu-vmess "https://raw.githubusercontent.com/godtrex99/update/main/update_file/menu-vmess" && chmod +x /usr/bin/menu-vmess
 wget -qc -o /opt/.ver https:https://raw.githubusercontent.com/godtrex99/update/main/ver && chmod +x /opt/.ver
