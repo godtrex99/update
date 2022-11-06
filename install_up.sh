@@ -1,9 +1,7 @@
 #!/bin/bash
 dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
 biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
-rm /usr/bin/menu-ssh
-#rm /usr/bin/menu-trojan
-#rm /usr/bin/menu-vmess
+rm /usr/bin/menu
 echo -e "[INFO] Remove Old Script"
 
 sleep 2
