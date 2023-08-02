@@ -1,0 +1,40 @@
+##==================================================##
+ _____           _ _                  _____  _____ 
+|  __ \         | | |                |  _  ||  _  |
+| |  \/ ___   __| | |_ _ __ _____  __| |_| || |_| |
+| | __ / _ \ / _` | __| '__/ _ \ \/ /\____ |\____ |
+| |_\ \ (_) | (_| | |_| | |  __/>  < .___/ /.___/ /
+ \____/\___/ \__,_|\__|_|  \___/_/\_\\____/ \____/ 
+                                                   
+##==================================================##
+
+payload:
+  # > SPEEDTEST
+  - DOMAIN-SUFFIX,speedtest.cbn.id
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,api.fast.com
+  - DOMAIN-SUFFIX,c.speedtestcustom.com
+  - DOMAIN-SUFFIX,cbn.speedtestcustom.com
+  - DOMAIN-SUFFIX,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,gurgle.speedtest.net
+  - DOMAIN-SUFFIX,speedtest.com.sg.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,m1speedtest1.m1net.com.sg.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,singnet-speedtest.singnet.com.sg.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,speedtest1.indosat.com.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,speedtest-ix.idola.net.id
+  - DOMAIN-SUFFIX,logos.speedtestcustom.com
+  - DOMAIN-SUFFIX,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,speed.dler.io
+  - DOMAIN-SUFFIX,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,speedtest10.vqbn.com
+  - DOMAIN-SUFFIX,c.speedtestcustom.com
+  - DOMAIN-SUFFIX,speedtest1.indosat.com.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,m1speedtest1.m1net.com.sg.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,speedtest.com.sg.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,ipv6-api.speedtest.net
